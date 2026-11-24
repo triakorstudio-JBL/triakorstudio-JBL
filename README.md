@@ -1,51 +1,47 @@
 <div align="center">
 
-# TriakorStudio
+<img src="./assets/portada.png" alt="TriakorStudio — Estudio Tecnológico | Marketing Digital, Software y Desarrollo Web" width="100%" />
 
-**ESTUDIO TECNOLÓGICO**
+<br/>
 
 ### Transformamos ideas en soluciones digitales.
 
-Desarrollamos soluciones tecnológicas y experiencias digitales para impulsar negocios.
+Desarrollamos experiencias web y soluciones tecnológicas pensadas para cada negocio.
 
-**Marketing Digital · Software · Desarrollo Web**
+**MARKETING DIGITAL &nbsp; · &nbsp; SOFTWARE &nbsp; · &nbsp; DESARROLLO WEB**
 
 </div>
 
 ---
 
-### Nuestro estudio
+### Qué hacemos
 
-En **TriakorStudio** combinamos desarrollo de software, diseño web y marketing digital para crear soluciones funcionales, modernas y adaptadas a las necesidades de cada proyecto.
+| Desarrollo web | Software a medida | Marketing digital |
+| :--- | :--- | :--- |
+| Páginas corporativas, sitios web y aplicaciones adaptables. | Sistemas personalizados para digitalizar procesos. | Presencia digital y estrategias para marcas y negocios. |
 
-### Servicios
+### Tecnologías
 
-| Desarrollo Web | Software a medida | Marketing Digital |
-|:---|:---|:---|
-| Sitios web corporativos, landing pages y aplicaciones web. | Sistemas personalizados para organizar y optimizar procesos. | Presencia digital, contenido y estrategias para marcas y negocios. |
+<div align="center">
 
-### Tecnologías y herramientas
+<img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap,java,spring,git,github,vscode,idea&perline=11" alt="Angular, TypeScript, HTML, CSS, Bootstrap, Java, Spring, Git, GitHub, VS Code e IntelliJ IDEA" />
 
-**Frontend** · Angular · TypeScript · HTML5 · CSS3 · Bootstrap
+**Base de datos:** Oracle Database
 
-**Backend** · Java · Spring Boot · API REST · Spring Security
-
-**Base de datos** · Oracle Database
-
-**Herramientas** · Git · GitHub · Visual Studio Code · IntelliJ IDEA
+</div>
 
 ### Proyectos
 
-Estamos preparando nuestro portafolio. Aquí compartiremos proyectos y demostraciones conforme estén listos para su publicación.
+Estamos preparando nuestro portafolio. Publicaremos aquí los proyectos que estén listos para mostrar.
 
 ### Contacto
 
-**Correo:** [triakorstudio@gmail.com](mailto:triakorstudio@gmail.com)
+**[triakorstudio@gmail.com](mailto:triakorstudio@gmail.com)**
 
 ---
 
 <div align="center">
 
-<sub>© 2026 TriakorStudio · Marketing Digital | Software | Desarrollo Web</sub>
+<sub>© 2026 TriakorStudio · Estudio Tecnológico</sub>
 
 </div>
