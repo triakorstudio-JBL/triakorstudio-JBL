@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./WhatsApp%20Image%202026-11-22%20at%209.00.51%20PM.jpeg" alt="TriakorStudio — Estudio Tecnológico | Marketing Digital, Software y Desarrollo Web" width="100%" />
+<img src="./WhatsApp%20Image%202026-11-22%20at%208.49.48%20PM.jpeg" alt="TriakorStudio — Estudio Tecnológico | Marketing Digital, Software y Desarrollo Web" width="100%" />
 
 <br/>
 
